@@ -4,11 +4,11 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"],
+      "@repo/shadcn-ui/*": ["./src/*"]
     },
-    "module": "ESNext",
-    "moduleResolution": "Bundler"
+
   },
-  "include": ["src/**/*"],
-  "exclude": ["node_modules", "dist","build",]
+  "include": ["."],
+  "exclude": ["node_modules", "dist"]
+  
 }
