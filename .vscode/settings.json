@@ -3,5 +3,10 @@
     {
       "mode": "auto"
     }
-  ]
+  ],
+
+  // https://www.youtube.com/watch?v=VmFOsK7IhI4
+  "workbench.colorTheme": "Atom One Dark",
+  // "editor.fontFamily": "Mononoki Nerd Font, CaskaydiaCove Nerd Font Mono, JetBrainsMonoNL Nerd Font Mono,Operator Mono ,Mononoki Nerd Font Mono ",
+  "editor.fontFamily": "Mononoki Nerd Font Mono"
 }
