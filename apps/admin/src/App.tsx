@@ -13,7 +13,7 @@ function App() {
   return (
     <>
       <div>
-        <p className="text-red-500">Vite + React</p>
+        <p className="text-blue-1000">Vite + React</p>
         <Button size="sm">Button</Button>
         <Card className="w-[350px]">
           <CardHeader>
